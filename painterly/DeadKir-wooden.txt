@@ -1,0 +1,5 @@
+Author: Kirill 'DeadKir'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/handpainted-tileable-textures-512%D1%85512
+
+some handpainted tileable textures 512x512
