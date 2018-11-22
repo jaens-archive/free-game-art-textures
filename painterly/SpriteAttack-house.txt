@@ -1,0 +1,5 @@
+Author: Chris Hildenbrand 'SpriteAttack' (http://2dgameartforprogrammers.blogspot.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/houseblocks
+
+Some blocks to set up house with roofs - tileable and working as textures for 3d models as well.

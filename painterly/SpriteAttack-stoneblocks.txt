@@ -1,0 +1,5 @@
+Author: Chris Hildenbrand 'SpriteAttack' (http://2dgameartforprogrammers.blogspot.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/stoneblocks
+
+Some basic stone blocks as pngs [96x96px] and svg [inkscape]
