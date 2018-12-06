@@ -1,0 +1,18 @@
+Author: Miloslav Ciz 'drummyfish' <miloslav.ciz@gmail.com> (http://www.tastyfish.cz/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/procedural-texture-pack
+
+A set of 42 tiling procedurally generated textures I made when playing around with NeoTextureEdit tool. They're in 256 x 256 PNG format.
+
+More procedural textures generated with another program can be found at my profile. 
+
+If you like the work, you can support me:
+
+- liberapay: https://liberapay.com/drummyfish
+
+- patreon: https://www.patreon.com/drummyfish
+
+- PayPal: miloslav.ciz@gmail.com
+
+Copyright/Attribution Notice: 
+Public domain, no attribution needed.

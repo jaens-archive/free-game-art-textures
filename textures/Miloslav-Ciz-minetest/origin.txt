@@ -1,0 +1,20 @@
+Author: Miloslav Ciz 'drummyfish' <miloslav.ciz@gmail.com> (http://www.tastyfish.cz/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/big-pack-of-hand-painted-tiling-textures
+
+This is a 128 x 128 texture pack for Minetest that I made. Besides a big number of tiling textures of various materials (grass, dirt, snow, metals, stone, sand, ...) there are also item icons, tools, plants etc.
+
+It is all public domain, made with GIMP, largely as an original work, but also with reuse of other public domain resources. I also utilized neural style transfer to make photo textures look like hand painted. The list of third party sources can be found in the repository with the pack:
+
+https://gitlab.com/drummyfish/minetest-texturepack
+
+Credit appreciated but not needed. Even more appreciated is if you share your own work under a free license in return :-)
+
+
+If you like the work, you can support me:
+
+- liberapay: https://liberapay.com/drummyfish
+
+- patreon: https://www.patreon.com/drummyfish
+
+- PayPal: miloslav.ciz@gmail.com
