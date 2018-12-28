@@ -1,0 +1,8 @@
+Author: ryzom (http://dev.ryzom.com/projects/ryzom/wiki http://www.ryzomcore.org)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/sky-textures
+
+
+Lots of awesome sky textures from ryzom.
+Attribution Instructions: 
+ryzom
